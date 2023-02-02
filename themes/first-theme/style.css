@@ -2,6 +2,13 @@
 Theme Name: first-theme
 Theme URI: https://first-theme.com
 Author: Osvaldo Alves
+Description: Study material for wordpress theme development.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: first-theme
+Tags: responsive, two-column, full-width
+Domain: /leanguages
 */
 
 body{
