@@ -10,3 +10,7 @@ Text Domain: first-theme
 Tags: responsive, two-column, full-width
 Domain: /leanguages
 */
+
+body{
+    background-color: green;
+}
