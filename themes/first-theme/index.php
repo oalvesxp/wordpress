@@ -11,7 +11,7 @@
         <h1><?php bloginfo('name'); ?></h1>
         <h2><?php bloginfo('description'); ?></h2>
 
-        <?php
+        <?php 
         if( have_posts() ) :
             while( have_posts() ) :
                 the_post();
@@ -24,7 +24,7 @@
                 
                 <?php
             endwhile;
-        else() :
+        else :
             ?>
             <h3>Posts not found!</h3>
             <?php
