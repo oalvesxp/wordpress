@@ -24,6 +24,10 @@
                 
                 <?php
             endwhile;
+        else() :
+            ?>
+            <h3>Posts not found!</h3>
+            <?php
         endif;
         ?>
 
